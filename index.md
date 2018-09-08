@@ -1,9 +1,10 @@
 ### Profile
 
-- [My profile on Hatena Diary](http://profile.hatena.ne.jp/takashi209/)
+- [My profile on Hatena Diary](http://profile.hatena.ne.jp/narita1980/)
 
 ### When I am
 
-- [Latest blog](http://takashi1980.hatenablog.com/)
+- [Latest blog](https://narita1980.hatenadiary.jp/)
 - [github](https://github.com/narita1980)
-- [Twitter](https://twitter.com/naritatakashi01)
+- [Twitter](https://twitter.com/narinarita1980)
+- [note](https://note.mu/narita1980)
