@@ -10,6 +10,7 @@
 - [Twilog](https://twilog.org/narinarita1980)
 - [Hatena Bookmark](http://b.hatena.ne.jp/narita1980/bookmark)
 - [Steemit](https://steemit.com/@narita1980)
+- [Qrunch](https://narinarita1980.qrunch.io)
 
 # abount ねこさまのひとりごと
 
